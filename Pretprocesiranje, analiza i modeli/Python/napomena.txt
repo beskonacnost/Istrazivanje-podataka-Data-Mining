@@ -1,0 +1,19 @@
+Kodovi koji su korisceni u fazi pretprocesiranja
+i modelovanja u Python-u su kombinacija:
+
+1. Student je pisao sam
+
+2. Kodovi sa vezbi
+
+3. Kovovi za obradu teksta pomocu Porterovog stemera
+preporucen na casovima vezbi:
+
+"svodjenje reci na koren pomocu Porterovog stemera:
+https://tartarus.org/martin/PorterStemmer/"
+algoritam se nalazi u modulu "stemrec"
+
+4. Kodovi iz Python skripti na istu temu:
+
+https://www.kaggle.com/orhansertkaya/natural-language-processing-nlp
+https://www.kaggle.com/rahulvks/gender-identification-analysis
+https://www.kaggle.com/tranctan96/cleaning-data-applying-some-ml-models
